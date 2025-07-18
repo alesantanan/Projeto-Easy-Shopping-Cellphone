@@ -1,4 +1,4 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
-<h2>Esse foi um projeto desevolvido no curso Devclub</h2>
+<h2>Esse foi um projeto desevolvido no curso <a href="https://www.devclub.com.br/">DevClub</h2>
