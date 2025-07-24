@@ -1,4 +1,4 @@
-[**Estamos online, clique aqui!**](https://use-origin.netlify.app/) 🎉  
+[**Estamos online, clique aqui!**](https://alesantanan.github.io/Projeto-Easy-Shopping-Cellphone/) 🎉 
 <br>
 
 <p align="center">
