@@ -32,13 +32,13 @@ Foi desenvolvido com foco em ajudar os usuários a visualizar, de forma simples 
 ## 💡 Demonstrações
 
 ### 💻 Versão Web  
-<img src="https://github.com/alesantanan/Projeto-Easy-Shopping-Cellphone/blob/main/assets/projeto%20cell%20phone%20web.png?raw=true" width="100%"/>
+<img src="https://github.com/alesantanan/Projeto-Easy-Shopping-Cellphone/blob/main/assets/projeto%20cell%20phone%20web.png"/>
 
 ### 📲 Mobile  
-<img src="https://github.com/alesantanan/Projeto-Easy-Shopping-Cellphone/blob/main/assets/place%20the%20uploaded%202.png?raw=true" width="300"/>
+<img src=https://github.com/alesantanan/Projeto-Easy-Shopping-Cellphone/blob/master/assets/projeto%20cell%20phone%20mobile.png/>
 
 ### 📱 Responsivo  
-<img src="https://github.com/alesantanan/Projeto-Easy-Shopping-Cellphone/blob/main/assets/projeto%20cell%20phone%20mobile.png" width="300"/>
+<img src=https://github.com/alesantanan/Projeto-Easy-Shopping-Cellphone/blob/master/assets/place%20the%20uploaded%202.png/>
 
 <br>
 
