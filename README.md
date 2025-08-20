@@ -32,7 +32,7 @@ Foi desenvolvido com foco em ajudar os usuários a visualizar, de forma simples 
 ## 💡 Demonstrações
 
 ### 💻 Versão Web  
-<img src="https://github.com/alesantanan/Projeto-Easy-Shopping-Cellphone/blob/main/assets/projeto%20cell%20phone%20web.png"/>
+<img src=https://github.com/alesantanan/Projeto-Easy-Shopping-Cellphone/blob/master/assets/projeto%20cell%20phone%20web.png/>
 
 ### 📲 Mobile  
 <img src=https://github.com/alesantanan/Projeto-Easy-Shopping-Cellphone/blob/master/assets/projeto%20cell%20phone%20mobile.png/>
